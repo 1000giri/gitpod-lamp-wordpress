@@ -1,0 +1,11 @@
+image:
+  file: .gitpod.dockerfile
+ports:
+  - port: 8001
+    onOpen: ignore
+  - port: 3306
+    onOpen: ignore
+tasks:
+  - init: >
+      echo Welcome!
+    command: apachectl start
