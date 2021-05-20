@@ -4,13 +4,13 @@
 
 どんなものか試すだけでしたら、以下の URL にアクセスしてください。
 
-[https://gitpod.io/#https://github.com/1000giri/gitpod-lamp-wp](https://gitpod.io/#https://github.com/1000giri/gitpod-lamp-wp)
+[https://gitpod.io/#https://github.com/1000giri/gitpod-lamp-wordpress](https://gitpod.io/#https://github.com/1000giri/gitpod-lamp-wordpress)
 
 そうでない場合は git clone, git push してから、そのリポジトリ URL の前に `https://gitpod.io/#`をつけてアクセスしてください。  
 次のような URL になるでしょう。
 
 ```
-https://gitpod.io/#https://github.com/<your username>/gitpod-lamp-wp
+https://gitpod.io/#https://github.com/<your username>/gitpod-lamp-wordpress
 ```
 
 ## Apache + PHP + MySQL
